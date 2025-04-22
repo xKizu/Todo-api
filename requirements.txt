@@ -1,0 +1,6 @@
+Flask==3.1.0
+Flask-SQLAlchemy==3.1.1
+greenlet==3.2.0
+PyJWT==2.10.1
+SQLAlchemy==2.0.40
+Werkzeug==3.1.3
